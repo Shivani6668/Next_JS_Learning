@@ -9,7 +9,7 @@ export default function Service() {
     <p><Link href="/services/seo">SEO</Link></p>
     <p><Link href="/">App/Web Design</Link></p>
     <p><Link href="/">App Development</Link></p>
-    
+  
        </>
   );
 }
