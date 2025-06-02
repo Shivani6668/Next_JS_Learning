@@ -1,5 +1,8 @@
 import Link from "next/link";
-
+export const metadata = {
+  title: "Services",
+  description: "This is the services page of the Next.js app",
+};
 export default function Service() {
   return (
    <>

@@ -1,3 +1,10 @@
+export const metadata = {
+  title:{
+    default: "Next.js App",
+    template: "%s | Next.js App",
+  }
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
